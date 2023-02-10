@@ -1,4 +1,5 @@
 ### Hi there 👋
+![about-me-72-tra-80q](https://user-images.githubusercontent.com/122160506/218073254-c2e49e90-e048-465c-84ce-e7ad0c755965.png)
 ![about-me-72-transparent](https://user-images.githubusercontent.com/122160506/218072957-fcdc569d-ed17-4bb7-90a4-b2b15f1ed1f2.png)
 ![about-me-72](https://user-images.githubusercontent.com/122160506/218071916-ae8357b5-c733-47eb-8ae3-6a7fffdbe97b.png)
 
