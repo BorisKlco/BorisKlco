@@ -1,6 +1,6 @@
 ### Hi there 👋
-![maybe](https://user-images.githubusercontent.com/122160506/218062194-0afced75-d263-4f1f-bedb-01535141d825.gif)
 
+![about-me](https://user-images.githubusercontent.com/122160506/218066457-2629e1b0-1a72-4de4-afa3-690086785529.gif)
 
 <!--
 **BorisKlco/BorisKlco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
