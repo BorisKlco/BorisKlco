@@ -1,4 +1,3 @@
-### Hi there 👋
 ![about-me-tr-clean](https://user-images.githubusercontent.com/122160506/218074299-2f431e8f-f543-4154-bd2b-a94501c7a72c.png)
 
 
