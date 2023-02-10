@@ -1,8 +1,4 @@
 ### Hi there 👋
-
-
-https://user-images.githubusercontent.com/122160506/218060946-51e6eeb4-56de-4524-aa69-a3e0aec2eb48.mp4
-
 ![maybe](https://user-images.githubusercontent.com/122160506/218062194-0afced75-d263-4f1f-bedb-01535141d825.gif)
 
 
