@@ -1,5 +1,7 @@
 ![about-me-tr-clean](https://user-images.githubusercontent.com/122160506/218074299-2f431e8f-f543-4154-bd2b-a94501c7a72c.png)
 
+![1](https://user-images.githubusercontent.com/122160506/218282401-9dbc10e7-5f9f-450e-9356-749051264fe2.png)
+![2](https://user-images.githubusercontent.com/122160506/218282406-f2f7b946-469e-4a00-92a3-ddd351f40a24.png)
 
 
 <!--
