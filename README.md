@@ -1,5 +1,8 @@
 ![2](https://user-images.githubusercontent.com/122160506/218282502-ef01dc42-8c55-47e6-b1f8-39af05c62af7.png)
 
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/BorisKlco?theme=light&font=Ubuntu&ext=heatmap" alt="Sublime's custom image"/>
+</p>
 
 <!--
 ![about-me-tr-clean](https://user-images.githubusercontent.com/122160506/218074299-2f431e8f-f543-4154-bd2b-a94501c7a72c.png)
