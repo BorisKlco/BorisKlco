@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/122160506/218282502-ef01dc42-8c55-47e6-b1f8-39af05c62af7.png" style="width:100%" />
  </p>
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/BorisKlco?theme=light&font=Ubuntu&ext=heatmap" style="width:25%" />
+  <img src="https://leetcard.jacoblin.cool/BorisKlco?theme=light&font=Ubuntu&ext=heatmap" style="width:30%" />
 </p>
 
 <!--
