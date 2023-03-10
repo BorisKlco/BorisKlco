@@ -11,14 +11,13 @@
 * Yes, I like cheap, plastic Android phones...
 * Yes, I like Windows(10)...
 
-<!--
 **LeetCode:**
 
   <img src="https://leetcard.jacoblin.cool/BorisKlco?theme=light&font=Ubuntu&ext=heatmap" style="width:30%" />
 
+<!--
 
-
-![2](https://user-images.githubusercontent.com/122160506/218282502-ef01dc42-8c55-47e6-b1f8-39af05c62af7.png)
+![2](<!--https://user-images.githubusercontent.com/122160506/218282502-ef01dc42-8c55-47e6-b1f8-39af05c62af7.png)
 ![about-me-tr-clean](https://user-images.githubusercontent.com/122160506/218074299-2f431e8f-f543-4154-bd2b-a94501c7a72c.png)
 
 **BorisKlco/BorisKlco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
