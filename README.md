@@ -8,10 +8,6 @@
 * 🍵 > ☕
 * Kindle > Paper 📚
 * 🍝 > 🍕 > 🍔
-* Triss > Yenn
 * 🐱 == 🐶
-* Comic Code 💗
-* ThinkPad supremacy 🙃
-* Owner of cheap, plastic Android phones and refurbished notebooks..
-* Yes, I restarted VPS when I used vim for the first time...
+
 
